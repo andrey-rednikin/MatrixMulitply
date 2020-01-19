@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixMulitply", "MatrixMulitply\MatrixMulitply.csproj", "{19A625E6-7D70-446A-904E-DC98B6565C06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMulitply.Tests", "MatrixMulitply.Tests\MatrixMulitply.Tests.csproj", "{84F59AA7-9925-4E31-AA77-6762FADD4442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A625E6-7D70-446A-904E-DC98B6565C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A625E6-7D70-446A-904E-DC98B6565C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A625E6-7D70-446A-904E-DC98B6565C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A625E6-7D70-446A-904E-DC98B6565C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84F59AA7-9925-4E31-AA77-6762FADD4442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F59AA7-9925-4E31-AA77-6762FADD4442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F59AA7-9925-4E31-AA77-6762FADD4442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F59AA7-9925-4E31-AA77-6762FADD4442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4461DB4B-EE10-4CC6-846B-C6BE405A7304}
+	EndGlobalSection
+EndGlobal
